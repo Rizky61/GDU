@@ -23,14 +23,9 @@ HELP = """   <b>AUTHORISE BOT</b>
             You Can Upload Any Internet
             Files On Your google
             Drive Account.
-<b> Links Supported By Bot</b>
+\n<b>Supported By Bot</b>
             * Direct Links 
-            * Openload links [Max Speed 
-              500 KBps :(   ]
-            * Dropbox links 
-            *  Mega links
-            
-            + More On Its way:)
+            * File Upload To Google Drive
                 
 Bug Report @cok_ini_username
         """
